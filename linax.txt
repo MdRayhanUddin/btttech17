@@ -1,0 +1,8 @@
+Cd: change directory to convert one directory to another directory
+Pwd: to see present work directory 
+Ls: to see list of file and folder ie. what type and how many file is there 
+Mkdir: to make a new folder 
+Touch: to make file. By the end have to make sure the extension is written eg.  txt 
+Cat: to view a file
+Nano: is a text editor work in Mac. 
+vi :For windows we can use vi editor 
