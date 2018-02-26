@@ -1,3 +1,4 @@
+vi:another text editor
 Cd: change directory to convert one directory to another directory
 Pwd: to see present work directory 
 Ls: to see list of file and folder ie. what type and how many file is there 
